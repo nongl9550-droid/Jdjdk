@@ -1,19 +1,26 @@
 #EXTM3U
 
 ############ PHIM LẺ ############
-#EXTINF:-1 group-title="Phim lẻ",tri13
-https://s6.kkphimplayer6.com/20260310/4DGfSxDM/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",timxac
-https://s6.kkphimplayer6.com/20260309/nDygb4HM/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",kholanh
-https://s6.kkphimplayer6.com/20260309/LBu0ibyC/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",Đảo Hải Tặc1
+https://s6.kkphimplayer6.com/20260310/SoC4c3vL/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",Đảo Hải Tặc2
+https://s6.kkphimplayer6.com/20260310/957vcfZX/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",tac3
+https://s6.kkphimplayer6.com/20260310/dYOI3whq/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",Đảo Hải Tặc4
+https://s6.kkphimplayer6.com/20260310/6enj9dqo/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",Đảo Hải Tặc5
+https://s6.kkphimplayer6.com/20260310/KdAXWHml/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",Đảo Hải Tặc6
+https://s6.kkphimplayer6.com/20260310/oeBtcysY/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ",tiengcoi
 https://s6.kkphimplayer6.com/20260307/KOq3fbGq/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ",death1
 https://s6.kkphimplayer6.com/20250903/64PsZX5T/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ",death2
 https://s6.kkphimplayer6.com/20250903/3WlZl1w4/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",
+#EXTINF:-1 group-title="Phim lẻ",thequaithu
+https://s6.kkphimplayer6.com/20260309/YEqpUAVd/index.m3u8
 ############ THÁM TỬ CONAN ############
 
 #EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 141
@@ -134,6 +141,7 @@ https://s6.kkphimplayer6.com/20250603/H0rL4wlH/index.m3u8
 https://s6.kkphimplayer6.com/20250603/yXDHQU9t/index.m3u8
 #EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 199
 https://s6.kkphimplayer6.com/20250603/QLwl9xUN/index.m3u8
+
 
 
 
