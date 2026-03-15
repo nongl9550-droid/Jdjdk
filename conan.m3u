@@ -1,18 +1,18 @@
 #EXTM3U
 
 ############ PHIM LẺ ############
-#EXTINF:-1 group-title="Phim lẻ",Đảo Hải Tặc7
-https://s6.kkphimplayer6.com/20260310/ip2OVgDR/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",Đảo Hải Tặc8
-https://s6.kkphimplayer6.com/20260310/ACXV4OJy/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",Chúc May Mắn Và Vui Lên, Đừng Chết
-https://s6.kkphimplayer6.com/20260312/C0NKxZrY/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",vanmenh1
-https://s6.kkphimplayer6.com/20260227/tZuFNyne/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",vm2
-https://s6.kkphimplayer6.com/20260227/azPrte5u/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",vm3
-https://s6.kkphimplayer6.com/20260227/bWySseQT/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",vn5
+https://s6.kkphimplayer6.com/20260227/lUYDoNfk/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",6
+https://s6.kkphimplayer6.com/20260227/rIyQsXfV/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",7
+https://s6.kkphimplayer6.com/20260227/4eNtv5Lo/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",8
+https://s6.kkphimplayer6.com/20260228/MaQw26nZ/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",9
+https://s6.kkphimplayer6.com/20260228/0GqTNmsh/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",10
+https://s6.kkphimplayer6.com/20260308/sP2iW9oF/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ",vm4
 https://s6.kkphimplayer6.com/20260227/v0MSeiXv/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ",death1
@@ -23,16 +23,7 @@ https://s6.kkphimplayer6.com/20250903/3WlZl1w4/index.m3u8
 https://s6.kkphimplayer6.com/20260309/YEqpUAVd/index.m3u8
 ############ THÁM TỬ CONAN ############
 
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 141
-https://s6.kkphimplayer6.com/20250603/9JeN6B35/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 142
-https://s6.kkphimplayer6.com/20250603/Lu8ySk9L/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 143
-https://s6.kkphimplayer6.com/20250603/EMXo3I75/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 144
-https://s6.kkphimplayer6.com/20250603/7gQu5YZm/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 145
-https://s6.kkphimplayer6.com/20250603/AOyagBHp/index.m3u8
+
 #EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 146
 https://s6.kkphimplayer6.com/20250603/bSE4OixZ/index.m3u8
 #EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 147
