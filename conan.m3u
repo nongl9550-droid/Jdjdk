@@ -1,8 +1,8 @@
 #EXTM3U
 
 ############ PHIM LẺ ############
-#EXTINF:-1 group-title="Phim lẻ",o3
-https://s6.kkphimplayer6.com/20260310/dYOI3whq/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",avar
+https://s6.kkphimplayer6.com/20260331/eRpJwGPs/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ",o4
 https://s6.kkphimplayer6.com/20260310/6enj9dqo/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ",o5
@@ -12,16 +12,7 @@ https://s6.kkphimplayer6.com/20260310/oeBtcysY/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ",o7
 https://s6.kkphimplayer6.com/20260310/ip2OVgDR/index.m3u8
 ############ THÁM TỬ CONAN ############
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 158
-https://s6.kkphimplayer6.com/20250603/jDH0Yy7I/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 159
-https://s6.kkphimplayer6.com/20250603/sID7CozO/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 160
-https://s6.kkphimplayer6.com/20250603/5rZiE9op/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 161
-https://s6.kkphimplayer6.com/20250603/eUdmgMr6/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 162
-https://s6.kkphimplayer6.com/20250603/iXI4I4HX/index.m3u8
+
 #EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 163
 https://s6.kkphimplayer6.com/20250603/wOpQkhJY/index.m3u8
 #EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 164
