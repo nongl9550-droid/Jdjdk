@@ -1,10 +1,10 @@
 #EXTM3U
 
 ############ PHIM LẺ ############
-#EXTINF:-1 group-title="Phim lẻ",1
-https://s6.kkphimplayer6.com/20260407/uCUOf2fk/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",2
-https://s6.kkphimplayer6.com/20260412/F5qTj18z/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",uoc1
+https://v7.kkphimplayer7.com/20260425/inofqLVY/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",2uoc
+https://v7.kkphimplayer7.com/20260425/NIdjp2oL/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ",cuo
 https://v7.kkphimplayer7.com/20260428/D71JDial/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ",giau3
