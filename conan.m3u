@@ -1,44 +1,20 @@
 #EXTM3U
 
 ############ PHIM LẺ ############
-#EXTINF:-1 group-title="Phim lẻ",uoc1
-https://v7.kkphimplayer7.com/20260425/inofqLVY/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",2uoc
-https://v7.kkphimplayer7.com/20260425/NIdjp2oL/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",tu
+https://v7.kkphimplayer7.com/20260518/t3IDpfmD/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",xacuop
+https://v7.kkphimplayer7.com/20260518/qQ9cN24d/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ",cuo
 https://v7.kkphimplayer7.com/20260428/D71JDial/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",giau3
-https://s6.kkphimplayer6.com/20260414/Apq2aWri/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",15
-https://s6.kkphimplayer6.com/20260323/ENJSICr5/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",won1
+https://v7.kkphimplayer7.com/20260515/bhezoTVu/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",w2
+https://v7.kkphimplayer7.com/20260515/zZhOXfeJ/index.m3u8
 
 ############ THÁM TỬ CONAN ############
 
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 251
-https://s6.kkphimplayer6.com/20250603/VPCHNafq/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 252
-https://s6.kkphimplayer6.com/20250603/sWcgWweg/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 253
-https://s6.kkphimplayer6.com/20250603/zT0XGA56/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 254
-https://s6.kkphimplayer6.com/20250603/PxTmDNPD/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 255
-https://s6.kkphimplayer6.com/20250603/OMElAnUO/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 256
-https://s6.kkphimplayer6.com/20250603/NbJvVjtl/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 257
-https://s6.kkphimplayer6.com/20250603/glRDYh2h/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 258
-https://s6.kkphimplayer6.com/20250603/WKrLbxC9/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 259
-https://s6.kkphimplayer6.com/20250603/CUKWKdVd/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 260
-https://s6.kkphimplayer6.com/20250603/ta8FBcW3/index.m3u8
 
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 261
-https://s6.kkphimplayer6.com/20250603/dWY2ummL/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 262
-https://s6.kkphimplayer6.com/20250603/vw7pgNvx/index.m3u8
 #EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 263
 https://s6.kkphimplayer6.com/20250603/A3RmBT1c/index.m3u8
 #EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 264
