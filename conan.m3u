@@ -1,81 +1,30 @@
 #EXTM3U
 
 ############ PHIM LẺ ############
-#EXTINF:-1 group-title="Phim lẻ",1
-https://v7.kkphimplayer7.com/20260605/mMUnxegG/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",2
-https://v7.kkphimplayer7.com/20260605/w5MC5FiW/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ",3
-https://v7.kkphimplayer7.com/20260605/ZWTl9ApV/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ",4
+https://v7.kkphimplayer7.com/20260605/3qEvMe1v/index.m3u8
+
+#EXTINF:-1 group-title="Phim lẻ",5
+https://v7.kkphimplayer7.com/20260605/T3huUqe8/index.m3u8
+
 #EXTINF:-1 group-title="Phim lẻ",6
-https://v7.kkphimplayer7.com/20260515/s1NtfWKy/index.m3u8
+https://v7.kkphimplayer7.com/20260605/v39JEjCN/index.m3u8
+
 #EXTINF:-1 group-title="Phim lẻ",7
-https://v7.kkphimplayer7.com/20260515/At86yNms/index.m3u8
+https://v7.kkphimplayer7.com/20260605/OqbIsdK4/index.m3u8
+
 #EXTINF:-1 group-title="Phim lẻ",8
-https://v7.kkphimplayer7.com/20260515/45bFhHoV/index.m3u8
+https://v7.kkphimplayer7.com/20260605/PJYAMXy4/index.m3u8
+
+#EXTINF:-1 group-title="Phim lẻ",9
+https://v7.kkphimplayer7.com/20260605/IMVcU4ID/index.m3u8
+
+#EXTINF:-1 group-title="Phim lẻ",10
+https://v7.kkphimplayer7.com/20260605/dF3A4SlV/index.m3u8
+
 ############ THÁM TỬ CONAN ############
 
 
-
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 266
-https://s6.kkphimplayer6.com/20250603/GEjKJ10c/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 267
-https://s6.kkphimplayer6.com/20250603/U2NtrsrE/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 268
-https://s6.kkphimplayer6.com/20250603/N9BqfrA6/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 269
-https://s6.kkphimplayer6.com/20250603/NXn8gO5Z/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 270
-https://s6.kkphimplayer6.com/20250603/rViuh1iU/index.m3u8
-
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 271
-https://s6.kkphimplayer6.com/20250603/A1BzN5si/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 272
-https://s6.kkphimplayer6.com/20250603/w0GtntDg/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 273
-https://s6.kkphimplayer6.com/20250603/gbp5NcAa/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 274
-https://s6.kkphimplayer6.com/20250603/KaNmJUyE/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 275
-https://s6.kkphimplayer6.com/20250603/m4yS3FJ1/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 276
-https://s6.kkphimplayer6.com/20250603/CJRlNspj/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 277
-https://s6.kkphimplayer6.com/20250603/VP3YYQ4V/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 278
-https://s6.kkphimplayer6.com/20250603/5L3HpeDJ/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 279
-https://s6.kkphimplayer6.com/20250603/0xEhLWwQ/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 280
-https://s6.kkphimplayer6.com/20250603/N2vwShQ8/index.m3u8
-
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 281
-https://s6.kkphimplayer6.com/20250603/c49EPR9q/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 282
-https://s6.kkphimplayer6.com/20250603/kyQTTv85/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 283
-https://s6.kkphimplayer6.com/20250603/sgoQ72ZD/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 284
-https://s6.kkphimplayer6.com/20250603/XnUHIEYo/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 285
-https://s6.kkphimplayer6.com/20250603/7kFAzJex/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 286
-https://s6.kkphimplayer6.com/20250603/6XhJ42xK/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 287
-https://s6.kkphimplayer6.com/20250603/o1A8yGs3/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 288
-https://s6.kkphimplayer6.com/20250603/J2YlmU7e/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 289
-https://s6.kkphimplayer6.com/20250603/BxSblZVe/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 290
-https://s6.kkphimplayer6.com/20250603/9YdHljMb/index.m3u8
-
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 291
-https://s6.kkphimplayer6.com/20250603/UkTstiNR/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 292
-https://s6.kkphimplayer6.com/20250603/neYUDnCd/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 293
-https://s6.kkphimplayer6.com/20250603/uGLfLNzj/index.m3u8
 #EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 294
 https://s6.kkphimplayer6.com/20250603/8bBau7I4/index.m3u8
 #EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 295
