@@ -1,11 +1,11 @@
 #EXTM3U
 ############ vtv ############
-#EXTINF:-1 group-title="vtv", ht9
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU1ODE4ODIsInVyaSI6IlwvaHR2Y1wvaHR2OS43MjBwLm5pbWJsZS5hZG0udG1zIiwiaXAiOiIifQ.uCw6oH9-tOdCxPGslbAlANzQ4V5kWMuYBXH88VoB0qE-/htvc/htv9.720p.nimble.adm.tms/chunks.m3u8
+#EXTINF:-1 group-title="vtv", dox
+https://v7.kkphimplayer7.com/20260805/pSi49wI5/index.m3u8
 #EXTINF:-1 group-title="vtv", camau
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-720p.m3u8
-#EXTINF:-1 group-title="vtv", vt1
-https://vtvgolive-vtv02.vtvdigital.vn/aHRN9OJSgEzl-CB53te57g/1785638844/hls/vtv/live/vtv1__vtv720p-h264/index.m3u8
+#EXTINF:-1 group-title="vtv", cay
+https://v7.kkphimplayer7.com/20260805/5MArbEV3/index.m3u8
 #EXTINF:-1 group-title="vtv", ct2
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho2-720p.m3u8
 #EXTINF:-1 group-title="vtv", cdt1
