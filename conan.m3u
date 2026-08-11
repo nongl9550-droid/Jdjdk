@@ -1,19 +1,19 @@
 #EXTM3U
 ############ vtv ############
-#EXTINF:-1 group-title="vtv", m7
-https://s2.phim1280.tv/20231106/Nuc44TlI/index.m3u8
+#EXTINF:-1 group-title="vtv", mario
+https://v7.kkphimplayer7.com/20260510/DzOwbOPD/index.m3u8
 #EXTINF:-1 group-title="vtv", camau
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-720p.m3u8
-#EXTINF:-1 group-title="vtv", cay
-https://v7.kkphimplayer7.com/20260805/5MArbEV3/index.m3u8
-#EXTINF:-1 group-title="vtv", ct2
-https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho2-720p.m3u8
-#EXTINF:-1 group-title="vtv", cdt1
-https://vtvgolive-liveh34.vtvdigital.vn/zw2BRW2fjQf9FIEyLYdxCA/1785595756/hls/DONGTHAPTV/03.m3u8
-#EXTINF:-1 group-title="vtv", ag
-https://vtvgolive-liveh34.vtvdigital.vn/a8P2xP6boRSuWoYuASaFlg/1785595777/hls/ANGIANGTV/03.m3u8
-#EXTINF:-1 group-title="vtv", onep1172
-https://v7.kkphimplayer7.com/20260803/HyK2NmBB/index.m3u8
+#EXTINF:-1 group-title="vtv", mario lt
+https://v7.kkphimplayer7.com/20260809/LZ6OHym6/index.m3u8
+#EXTINF:-1 group-title="vtv", xacuop
+https://v7.kkphimplayer7.com/20260809/O26OyAfW/index.m3u8
+#EXTINF:-1 group-title="vtv", duaconthoitiet
+https://s6.kkphimplayer6.com/20250526/rSwbuzxl/index.m3u8
+#EXTINF:-1 group-title="vtv", dê
+https://v7.kkphimplayer7.com/20260807/nJmn6kFX/index.m3u8
+#EXTINF:-1 group-title="vtv", am sat
+https://v7.kkphimplayer7.com/20260728/hjRoI86f/index.m3u8
 ############ PHIM LẺ ############
 #EXTINF:-1 group-title="Phim lẻ", coban
 https://v7.kkphimplayer7.com/20260718/iH6o7Ll4/index.m3u8
