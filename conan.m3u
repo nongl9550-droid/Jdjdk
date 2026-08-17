@@ -1,21 +1,21 @@
 #EXTM3U
 ############ vtv ############
-#EXTINF:-1 group-title="vtv", mario
-https://v7.kkphimplayer7.com/20260510/DzOwbOPD/index.m3u8
+#EXTINF:-1 group-title="vtv", star2017
+https://s2.phim1280.tv/20240103/oFgDmqB2/index.m3u8
 #EXTINF:-1 group-title="vtv", camau
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-720p.m3u8
-#EXTINF:-1 group-title="vtv", dra
-https://v7.kkphimplayer7.com/20260809/dvMQdhJt/index.m3u8
-#EXTINF:-1 group-title="vtv", dra2
-https://s2.phim1280.tv/20231116/bIGt2fmz/index.m3u8
-#EXTINF:-1 group-title="vtv", xacuop
-https://v7.kkphimplayer7.com/20260809/O26OyAfW/index.m3u8
-#EXTINF:-1 group-title="vtv", duaconthoitiet
-https://s6.kkphimplayer6.com/20250526/rSwbuzxl/index.m3u8
-#EXTINF:-1 group-title="vtv", mini
-https://v7.kkphimplayer7.com/20260813/Q0R6azi7/index.m3u8
-#EXTINF:-1 group-title="vtv", am sat
-https://v7.kkphimplayer7.com/20260728/hjRoI86f/index.m3u8
+#EXTINF:-1 group-title="vtv", sta241
+https://s4.phim1280.tv/20241208/xbJqZflg/index.m3u8
+#EXTINF:-1 group-title="vtv", star242
+https://s4.phim1280.tv/20250222/MdO7eUtA/index.m3u8
+#EXTINF:-1 group-title="vtv", 19 Star Wars: Skywalker Trỗi Dậy
+https://s1.phim1280.tv/20231020/5xl3QZBy/index.m3u8
+#EXTINF:-1 group-title="vtv", 18 Solo: Star Wars Ngoại Truyện
+https://s2.phim1280.tv/20231024/3dKSwwxm/index.m3u8
+#EXTINF:-1 group-title="vtv", 15 Star Wars: Thần Lực Thức Tỉnh
+https://s2.phim1280.tv/20231112/XPO5xaJ2/index.m3u8
+#EXTINF:-1 group-title="vtv", 16 Rogue One: Star Wars Ngoại Truyện
+https://s2.phim1280.tv/20231028/PSKGhVi9/index.m3u8
 
 ############ PHIM LẺ ############
 #EXTINF:-1 group-title="Phim lẻ", starwar
