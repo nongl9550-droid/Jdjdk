@@ -1,33 +1,30 @@
 #EXTM3U
 ############ vtv ############
-#EXTINF:-1 group-title="vtv", ma4
-https://s2.phim1280.tv/20240308/RvQjiKkl/index.m3u8
+#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 1
+https://v7.kkphimplayer7.com/20260721/0RXH3sbW/index.m3u8
 #EXTINF:-1 group-title="vtv", camau
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-720p.m3u8
-#EXTINF:-1 group-title="vtv", 5
-https://s2.phim1280.tv/20240308/xwfZgkAE/index.m3u8
-#EXTINF:-1 group-title="vtv", 6
-https://s2.phim1280.tv/20240308/yzzVyueO/index.m3u8
-#EXTINF:-1 group-title="vtv", 7
-https://s2.phim1280.tv/20240308/g50NcsnH/index.m3u8
-#EXTINF:-1 group-title="vtv", 8
-https://s2.phim1280.tv/20240308/EZgcDrWL/index.m3u8
-#EXTINF:-1 group-title="vtv", p3 1
-https://s2.phim1280.tv/20240308/0pUtCPvw/index.m3u8
-#EXTINF:-1 group-title="vtv", 2
-https://s2.phim1280.tv/20240308/ODMcXs8e/index.m3u8
-
+#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 2
+https://v7.kkphimplayer7.com/20260721/gIShIDb9/index.m3u8
+#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 3
+https://v7.kkphimplayer7.com/20260721/upB3PrMb/index.m3u8
+#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 4
+https://v7.kkphimplayer7.com/20260721/zgFNpzHS/index.m3u8
+#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 5
+https://v7.kkphimplayer7.com/20260721/p5Zw0Yxb/index.m3u8
+#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 6
+https://v7.kkphimplayer7.com/20260721/c9als14V/index.m3u8
+#EXTINF:-1 group-title="vtv", Andor 1
+https://s5.phim1280.tv/20250427/TY2kjvQp/index.m3u8
 ############ PHIM LẺ ############
-#EXTINF:-1 group-title="Phim lẻ", 3 3
-https://s2.phim1280.tv/20240308/0xi662Qm/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ", 34
-https://s2.phim1280.tv/20240308/foxPqSwq/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ", 35
-https://s2.phim1280.tv/20240308/ge8YwrII/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ", 36
-https://s2.phim1280.tv/20240308/wheCjXC3/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ", 37
-https://s2.phim1280.tv/20240308/mruFEQxl/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ", Andor 2
+https://s5.phim1280.tv/20250427/0zOBFX95/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ", Andor 3
+https://s5.phim1280.tv/20250427/GaTkjDzx/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ", Andor 4
+https://s5.phim1280.tv/20250427/yP7yTiRU/index.m3u8
+#EXTINF:-1 group-title="Phim lẻ", Andor 5
+https://s5.phim1280.tv/20250427/4ZOyY5VZ/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ", 38
 https://s2.phim1280.tv/20240308/f6tIpPe3/index.m3u8
 #EXTINF:-1 group-title="Phim lẻ", 2
