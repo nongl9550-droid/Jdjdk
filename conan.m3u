@@ -1,19 +1,23 @@
 #EXTM3U
 ############ vtv ############
-#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 1
-https://v7.kkphimplayer7.com/20260721/0RXH3sbW/index.m3u8
+#EXTINF:-1 group-title="vtv", Nữ Hiệp Sĩ Ahsoka 1
+https://s2.phim1280.tv/20231001/zOu6Oayl/index.m3u8
 #EXTINF:-1 group-title="vtv", camau
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-720p.m3u8
-#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 2
-https://v7.kkphimplayer7.com/20260721/gIShIDb9/index.m3u8
-#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 3
-https://v7.kkphimplayer7.com/20260721/upB3PrMb/index.m3u8
-#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 4
-https://v7.kkphimplayer7.com/20260721/zgFNpzHS/index.m3u8
-#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 5
-https://v7.kkphimplayer7.com/20260721/p5Zw0Yxb/index.m3u8
-#EXTINF:-1 group-title="vtv", Obi-Wan Kenobi 6
-https://v7.kkphimplayer7.com/20260721/c9als14V/index.m3u8
+#EXTINF:-1 group-title="vtv", Nữ Hiệp Sĩ Ahsoka 2
+https://s2.phim1280.tv/20231001/y09mItzB/index.m3u8
+#EXTINF:-1 group-title="vtv", Nữ Hiệp Sĩ Ahsoka3
+https://s2.phim1280.tv/20231001/5LtLYbG8/index.m3u8
+#EXTINF:-1 group-title="vtv", Nữ Hiệp Sĩ Ahsoka 4
+https://s2.phim1280.tv/20231001/FKYP5fXI/index.m3u8
+#EXTINF:-1 group-title="vtv", Nữ Hiệp Sĩ Ahsoka 5
+https://s2.phim1280.tv/20231001/zP1YKIsj/index.m3u8
+#EXTINF:-1 group-title="vtv",Nữ Hiệp Sĩ Ahsoka 6
+https://s2.phim1280.tv/20231001/drPZqbIJ/index.m3u8
+#EXTINF:-1 group-title="vtv",Nữ Hiệp Sĩ Ahsoka 7
+https://s2.phim1280.tv/20231001/eCqSmX9i/index.m3u8
+#EXTINF:-1 group-title="vtv",Nữ Hiệp Sĩ Ahsoka 8
+https://s3.phim1280.tv/20240330/gfUjmd0F/index.m3u8
 #EXTINF:-1 group-title="vtv", Andor 1
 https://s5.phim1280.tv/20250427/TY2kjvQp/index.m3u8
 ############ PHIM LẺ ############
