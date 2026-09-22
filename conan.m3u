@@ -1,11 +1,11 @@
 #EXTM3U
 ############ vtv ############
-#EXTINF:-1 group-title="vtv", dar
-https://s6.kkphimplayer6.com/20250817/UFn2SNLQ/index.m3u8
+#EXTINF:-1 group-title="vtv", happ
+https://s2.phim1280.tv/20240307/UxQKe2NH/index.m3u8
 #EXTINF:-1 group-title="vtv", camau
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/camau-720p.m3u8
-#EXTINF:-1 group-title="vtv", ho
-https://a.kvp726.com/20260919/WRv88VlS/index.m3u8
+#EXTINF:-1 group-title="vtv", hap2
+https://s2.phim1280.tv/20240307/uYB9Xfgo/index.m3u8
 #EXTINF:-1 group-title="vtv", ap
 https://s6.kkphimplayer6.com/20250817/Pn04k0rc/index.m3u8
 #EXTINF:-1 group-title="vtv", pho
@@ -20,21 +20,6 @@ https://s2.phim1280.tv/20231001/eCqSmX9i/index.m3u8
 https://s3.phim1280.tv/20240330/gfUjmd0F/index.m3u8
 #EXTINF:-1 group-title="vtv", Andor 1
 https://s5.phim1280.tv/20250427/TY2kjvQp/index.m3u8
-############ PHIM LẺ ############
-#EXTINF:-1 group-title="Phim lẻ", ngu l
-https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=65e0556b6b18080018db665e&camLocation=Nguy%E1%BB%85n%20Th%C3%A1i%20H%E1%BB%8Dc%20-%20Ph%E1%BA%A1m%20Ng%C5%A9%20L%C3%A3o&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8
-#EXTINF:-1 group-title="Phim lẻ", kenh te
-https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=63ae7669bfd3d90017e8f0d9&camLocation=Kh%C3%A1nh%20H%E1%BB%99i%20-%20C%E1%BA%A7u%20K%C3%AAnh%20T%E1%BA%BB&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8
-#EXTINF:-1 group-title="Phim lẻ", ly th
-https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=5deb576d1dc17d7c5515acf5&camLocation=N%C3%BAt%20giao%20Ng%C3%A3%20b%E1%BA%A3y%20L%C3%BD%20Th%C3%A1i%20T%E1%BB%95&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8
-#EXTINF:-1 group-title="Phim lẻ", juut
-https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=56df8381c062921100c143e2&camLocation=Nguy%E1%BB%85n%20H%E1%BB%AFu%20Th%E1%BB%8D%20-%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Th%E1%BA%ADp%201&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8
-#EXTINF:-1 group-title="Phim lẻ", xich
-https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=587ee2aeb807da0011e33d52&camLocation=Phan%20%C4%90%C4%83ng%20L%C6%B0u%20-%20Phan%20X%C3%ADch%20Long&camMode=camera&videoUrl=http://camera.thongtingiaothong.vn/s/587ee2aeb807da0011e33d52/index.m3u8
-#EXTINF:-1 group-title="Phim lẻ", fg
-https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=58ad69c4bd82540010390be7&camLocation=N%C3%BAt%20giao%20Ph%C3%BA%20Nhu%E1%BA%ADn%202%20(Phan%20%C4%90%C4%83ng%20L%C6%B0u)&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8
-#EXTINF:-1 group-title="Phim lẻ", nach
-https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=5a8253bc5058170011f6eac1&camLocation=%C4%90inh%20B%E1%BB%99%20L%C4%A9nh%20-%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng%202&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8
 
 #EXTINF:-1 group-title="Phim lẻ",the3v
 https://v7.kkphimplayer7.com/20260625/DvtBXcRf/index.m3u8
@@ -48,31 +33,7 @@ https://v7.kkphimplayer7.com/20260625/dRIMMe2k/index.m3u8
 https://v7.kkphimplayer7.com/20260625/AWVODGC5/index.m3u8
 ############ THÁM TỬ CONAN ############
 
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 339
-https://s6.kkphimplayer6.com/20250603/BwaEFeWK/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 340
-https://s6.kkphimplayer6.com/20250603/wVqhCtJt/index.m3u8
 
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 341
-https://s6.kkphimplayer6.com/20250603/xHP0fcnW/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 342
-https://s6.kkphimplayer6.com/20250603/TZj9s5T5/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 343
-https://s6.kkphimplayer6.com/20250603/vmMJlxfW/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 344
-https://s6.kkphimplayer6.com/20250603/Gw678Xrd/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 345
-https://s6.kkphimplayer6.com/20250603/o9Y578Qv/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 346
-https://s6.kkphimplayer6.com/20250603/Hu6X7A1w/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 347
-https://s6.kkphimplayer6.com/20250603/XJ9Rp40e/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 348
-https://s6.kkphimplayer6.com/20250603/0OzJJg4A/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 349
-https://s6.kkphimplayer6.com/20250603/IEf8hEo5/index.m3u8
-#EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 350
-https://s6.kkphimplayer6.com/20250603/WrbKu8Si/index.m3u8
 
 #EXTINF:-1 group-title="Conan",Thám tử Conan - Tập 351
 https://s6.kkphimplayer6.com/20250603/gLZNfRPg/index.m3u8
